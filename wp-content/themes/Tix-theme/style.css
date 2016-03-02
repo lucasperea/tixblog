@@ -496,7 +496,7 @@ font-weight: bold;}
 }
 
 .jumbotron h1
-{background: url("assets/images/shade.png"); padding:1%;}
+{background: url("assets/images/shade.png"); padding:1%; color:#F0BC05;}
 
 .jumbotron img {
     position: absolute;
@@ -506,5 +506,6 @@ font-weight: bold;}
     height: auto;
     opacity: 0.6;
 }
-.jumbotron h1
+
+.jumbotron a
 {color:#F0BC05;}
